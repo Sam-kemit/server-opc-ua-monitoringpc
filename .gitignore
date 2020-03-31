@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+
+certificates
+
+enc-server-exe
+
+01_server.js
+ReadMe_Fr.txt
