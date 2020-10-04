@@ -28,4 +28,11 @@ You will find in the folder, two scripts:
 - Now your server is working properly... Connect to its url address with unclient opc ua such as 
 UAExpert to be able to exploit its data.
 
+<hr>
+
+- Open your free client opc ua **UaExpert** and connect to your server. Follow the step by clicking on the <a href="https://www.unified-automation.com/products/development-tools/uaexpert.html/">link</a>
+
 ### P.S: openssl is the tool that allows to distribute and/or manage certificate keys between the client and the server.
+
+<hr>
+Created by Samuel K 🖤💯
