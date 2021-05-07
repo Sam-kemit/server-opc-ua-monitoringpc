@@ -114,7 +114,7 @@
     "sprintf": "0.1.5",
     "thenify": "^3.3.0",
     "treeify": "1.1.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "xml-writer": "^1.7.0",
     "yargs": "^12.0.1"
   }
