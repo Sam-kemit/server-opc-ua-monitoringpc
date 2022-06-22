@@ -86,7 +86,7 @@
   "typings": "./packages/node-opcua/node-opcua.d.ts",
   "dependencies": {
     "@types/underscore": "^1.8.8",
-    "async": "2.6.1",
+    "async": "3.2.2",
     "backoff": "2.5.0",
     "better-assert": "*",
     "bomstrip": "0.1.4",
